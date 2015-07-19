@@ -15,6 +15,38 @@
             "files": [
                 "wordpress-4.2.2.zip"
             ]
+        },
+        {
+            "name": "Drupal",
+            "description": "Drupal is an open-source platform and content management system for building dynamic web sites offering a broad range of features and services including user administration, publishing workflow, discussion capabilities, news aggregation, metadata functionalities using controlled vocabularies and XML publishing for content sharing purposes. Equipped with a powerful blend of features and configurability, Drupal can support a diverse range of web projects ranging from personal weblogs to large community-driven sites.",
+            "directory": "drupal",
+            "files": [
+                "drupal-7.38.zip"
+            ]
+        },
+        {
+            "name": "bbPress",
+            "description": "bbPress is forum software with a twist from the creators of WordPress. bbPress is plain and simple forum software, plain and simple. It’s easy to use, easy to administrate, fast and clean. But don’t let its simplicity deceive you; underneath the gleam, it’s got some powerful features and is highly customizable",
+            "directory": "bbpress",
+            "files": [
+                "bbpress.2.5.7.zip"
+            ]
+        },
+        {
+            "name": "CodeIgniter",
+            "description": "CodeIgniter is a powerful PHP framework with a very small footprint, built for PHP coders who need a simple and elegant toolkit to create full-featured web applications. If you're a developer who lives in the real world of shared hosting accounts and clients with deadlines, and if you're tired of ponderously large and thoroughly undocumented frameworks",
+            "directory": "codeigniter",
+            "files": [
+                "CodeIgniter-3.0.0.zip"
+            ]
+        },
+        {
+            "name": "Slim Framework",
+            "description": "Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs. Slim is easy to use for both beginners and professionals. Slim favors cleanliness over terseness and common cases over edge cases. Its interface is simple, intuitive, and extensively documented — both online and in the code itself. Thank you for choosing the Slim Framework for your next project. I think you're going to love it.",
+            "directory": "slim",
+            "files": [
+                "Slim-2.6.2.zip"
+            ]
         }
     ],
     "javascript": [
