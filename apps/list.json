@@ -55,6 +55,22 @@
             "files": [
                 "phpMyAdmin-4.4.11-all-languages.zip"
             ]
+        },
+        {
+            "name": "Codiad",
+            "description": "Codiad is a web-based IDE framework with a small footprint and minimal requirements. Codiad was built with simplicity in mind, allowing for fast, interactive development without the massive overhead of some of the larger desktop editors. That being said even users of IDE's such as Eclipse, NetBeans and Aptana are finding Codiad's simplicity to be a huge benefit.",
+            "directory": "codiad",
+            "files": [
+                "Codiad-v.2.6.5.zip"
+            ]
+        },
+        {
+            "name": "SEO Panel",
+            "description": "Seo Panel A complete open source seo control panel for managing search engine optimization of your websites. Seo Panel is a seo tool kit includes latest hot seo tools to increase and track the performace of your websites. Any one can easily develop and install required plugins for their seo panel.",
+            "directory": "seopanel",
+            "files": [
+                "seopanel.v.3.7.0.zip"
+            ]
         }
     ],
     "javascript": [
